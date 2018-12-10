@@ -1,0 +1,5 @@
+# IDE
+/.vs
+
+# dependencies
+/node_modules
